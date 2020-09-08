@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ZP2_SMT
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -169,7 +169,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ZP2_SMT
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -351,7 +351,7 @@ OutputVariantName2=[No Variations]
 OutputDefault2=1
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.28|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=71887376|ViewY=61847236|LookAtX=22146598|LookAtY=24980862|LookAtZ=162997.515625|UpX=0.570083677768707|UpY=0.270409375429153|UpZ=-0.775811672210693|FOV=45|QuatX=-0.363039284944534|QuatY=0.229608133435249|QuatZ=-0.482698321342468|QuatW=0.763206899166107|Zoom=1.49400370270833E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=False|ScreenWidth=1074|ScreenHeight=924|ViewConfig= 
+Configuration2_Item1=Record=Pcb3DPrintView|ResX=300|ResY=300|ViewX=71887376|ViewY=61847236|LookAtX=22146598|LookAtY=24980862|LookAtZ=162997.515625|UpX=0.570083677768707|UpY=0.270409375429153|UpZ=-0.775811672210693|FOV=45|QuatX=-0.363039284944534|QuatY=0.229608133435249|QuatZ=-0.482698321342468|QuatW=0.763206899166107|Zoom=1.49400370270833E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=True|ViewFromTop=False|ScreenWidth=1074|ScreenHeight=924|ViewConfig=
 OutputType3=PCB 3D Video
 OutputName3=PCB 3D Video
 OutputDocumentPath3=
